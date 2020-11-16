@@ -26,14 +26,14 @@ $(document).ready(function(){
 
     // typing animation script
     var typed = new Typed(".typing", {
-        strings: ["Developer", "Pythonista", "Designer", "Programmer"],
+        strings: ["Pythonista", "Competitive Programmer", "Front-End Developer", "Django Developer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Developer", "Pythonista", "Designer", "Programmer"],
+        strings: ["Pythonista", "Competitive Programmer", "Front-End Developer", "Django Developer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
